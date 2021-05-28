@@ -7,4 +7,4 @@ You can also comment what you would like to see featurewise. I'll try to include
 
 Quick note:
 The bot will be available for Windows as an .exe but you can also use it as a python script on Linux.
-You will need a Firefox-Webdriver such as geckodriver (could be the only one, I absolutely don't know) as well as the modules "Pygame" which I use to play sounds and "Selenium" in order to interact with the webdriver.
+You will need the Firefox-Webdriver geckodriver as well as the modules "Pygame" which I use to play sounds and "Selenium" in order to interact with the webdriver.
