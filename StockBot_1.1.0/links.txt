@@ -1,0 +1,18 @@
+# Blank lines and lines starting with '#' will be skipped.
+# You are supposed to keep the structure, the program might not work otherwise.
+
+# Amazon
+https://www.amazon.de/Sony-Interactive-Entertainment-PlayStation-5/dp/B08H93ZRK9/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=33LWRJ3SP4CZX&dchild=1&keywords=playstation+5&qid=1620244040&sprefix=p%2Caps%2C223&sr=8-3
+https://www.amazon.de/Sony-PlayStation-Marvels-Spider-Man-Remastered/dp/B091DZ8WZQ/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2SY3Z81ZV5VTP&dchild=1&keywords=playstation+5&qid=1621280778&sprefix=playstat%2Caps%2C512&sr=8-6
+https://www.amazon.de/Ratchet-Clank-Rift-Apart-PlayStation/dp/B08B44H982/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=playstation+5+bundle&qid=1621280889&sr=8-7
+https://www.amazon.de/Sony-DualSense-Wireless-Controller-PlayStation-5/dp/B08H99BPJN/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=playstation+controller&qid=1621425429&sr=8-3
+
+# Notebooksbilliger (not implemented yet)
+nbbLink1
+nbbLink2
+
+# Define some other values below:
+maxPrice[€] = 550.00
+sleep-time[seconds] = 0,5
+
+# This is the end of the file. Don't remove this line
