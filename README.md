@@ -8,4 +8,4 @@ You can comment what you would like to see featurewise. I'll try to include it i
 Quick note:
 The bot will be available for Windows as an .exe but you can also use it as a Python-script on Linux.
 You will need the Firefox-Webdriver geckodriver as well as the modules "Pygame" which I use to play sounds and "Selenium" in order to interact with the webdriver.
-These are included with the .exe
+The .exe is ready to go.
